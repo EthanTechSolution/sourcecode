@@ -1,3 +1,4 @@
+//ethan
 // function test(n:number[]):void{
 //     for(var x:number=0; x<n.length; x++){
 //         console.log(n[x]);  
