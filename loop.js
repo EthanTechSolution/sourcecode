@@ -19,7 +19,7 @@
 //     console.log(i);
 // }
 // test("mike",10,20,30);
-//=======Back Tick advantage=======================
+//======Back Tick advantage=======================
 function test(name, city) {
     console.log("".concat(name).concat(city));
 }
